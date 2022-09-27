@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186229997323",
+    "project_id": "alome-a545c",
+    "storage_bucket": "alome-a545c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186229997323:android:d487cb69f99aa83f622c0e",
+        "android_client_info": {
+          "package_name": "com.example.alome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186229997323-5pad4nl4ks3s0n5942bnm39mlgk6vk1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwxDs91RSbqgPZgYmVtuRTzVsSpkgTVJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186229997323-5pad4nl4ks3s0n5942bnm39mlgk6vk1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
